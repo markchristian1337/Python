@@ -4,3 +4,5 @@ z = float(input("Enter 3rd number: "))
 
 print("The max is: ", max(x,y,z,))
 input("Press any key to exit")
+
+# testing
